@@ -1,0 +1,13 @@
+Hello,Adele,25,Pop,2015
+Someone Like You,Adele,21,Soul,2011
+Rolling in the Deep,Adele,21,Pop,2010
+Lover,Taylor Swift,Lover,Pop,2019
+Shake It Off,Taylor Swift,1989,Pop,2014
+Blank Space,Taylor Swift,1989,Pop,2014
+yel,Coldplau,,,2022
+Fix You,Coldplay,X&Y,Alternative Rock,2005
+Viva La Vida,Coldplay,Viva la Vida,Alternative Rock,2008
+Tum Hi Ho,Arijit Singh,Aashiqui 2,Romantic,2013
+Kal Ho Naa Ho,Sonu Nigam,Kal Ho Naa Ho,Romantic,2003
+Tujh Mein Rab Dikhta Hai,Shreya Ghoshal,Rab Ne Bana Di Jodi,Romantic,2008
+Chaiyya Chaiyya,Sukhwinder Singh,Dil Se,Classic,1998
