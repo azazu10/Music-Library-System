@@ -6,3 +6,5 @@ A music library system implemented in C++. A user can interact with the program 
 - Search for songs
 - Save current song library in an external file
 - Load an existing library
+
+![UML of Implementation of the Project](images/UML.png)
